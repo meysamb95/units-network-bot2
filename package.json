@@ -1,5 +1,5 @@
 {
-  "name": "units-network-bot2",
+  "name": "units-network-bot1",
   "version": "1.0.0",
   "description": "An application for automating transactions on the Units Network Testnet using multiple private keys.",
   "main": "index.js",
